@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oSSantooS
 - 👀 I’m interested in Html, CSS, Javascript, React, Angular
-- 🌱 I’m currently learning all about Front-end Development
+- 🌱 I’m currently studying to become a Junior Full-Stack Developer
 - 📫 How to reach me on my email luis_santos1995@hotmail.com
 
 <!---
